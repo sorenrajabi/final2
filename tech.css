@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(169, 224, 206);
+}
+.grid-item{
+    background-color: rgba(10, 10, 10, 0.8);
+      border: 1px solid rgba(0, 0, 0, 0.8);
+      padding: 20px;
+      font-size: 30px;
+      text-align: center;
+      
+    }
+    a{
+        font-weight: bold;
+        color: rgb(255, 254, 254);
+    }
+    
+    
+    #coffee{
+        margin-top: 50px;
+        
+    }
+    #coffee h3 {
+        
+        float: right;
+        margin-right: 15px;
+
+    }
+    #drone h3{
+        float: right;
+        margin-right: 825px;
+    }
+    #tile h3{
+         float: right;
+         margin-right: 265px;
+    }
+    #alexa h3{
+        float: right;
+        margin-right: 150px;
+    }
+    #gaming h3{
+        float: right;
+        margin-right: 420px;
+    }
+    a:hover{
+        background-color: rgb(148, 148, 106);
+    }

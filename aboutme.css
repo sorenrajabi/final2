@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: aqua;
+}
+#pizzaPic img{
+    margin:10px auto auto 350px;
+
+}
+.grid-item{
+background-color: rgba(10, 10, 10, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  
+}
+a{
+    font-weight: bold;
+    color: rgb(255, 254, 254);
+}
+#left-container img{
+    margin-top: 50px;
+    border: 10px solid black;
+    width: 50%;
+}
+#right-container p{
+   
+    border: 3px solid black;
+    
+}
+
+h1{
+    display: inline;
+}
+a:hover{
+    background-color: rgb(138, 138, 84);
+}
